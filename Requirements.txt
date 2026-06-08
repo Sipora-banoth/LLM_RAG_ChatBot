@@ -1,0 +1,12 @@
+python-dotenv
+torch
+transformers
+bitsandbytes
+accelerate
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
+streamlit
